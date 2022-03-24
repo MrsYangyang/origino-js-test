@@ -1,0 +1,22 @@
+{
+  "name": "@origino/js-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MrsYangyang/origino-js-test.git"
+  },
+  "author": "origino",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MrsYangyang/origino-js-test/issues"
+  },
+  "homepage": "https://github.com/MrsYangyang/origino-js-test",
+  "devDependencies": {
+    "typescript": "^4.6.2"
+  }
+}
